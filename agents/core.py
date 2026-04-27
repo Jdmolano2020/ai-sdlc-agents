@@ -4,7 +4,7 @@ Base shared library for agents: AgentBase, configuration, messaging helpers.
 
 Requisitos: fastapi, uvicorn, httpx, redis, pydantic, python-dotenv
 
-Uso: extender AgentBase y proveer implementaci\u00f3n de handle_task
+Uso: extender AgentBase y proveer implementacion de handle_task
 """
 from __future__ import annotations
 import asyncio
